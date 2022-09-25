@@ -5,7 +5,7 @@ This project was made using C++ and [SFML](https://www.sfml-dev.org/).
 
 
 # How To Play
-To play the game, run "Alien Animation.exe" under [bin/release](https://github.com/ZainM24/SFML-Space-Invaders/blob/main/bin/Release/Alien%20Animation.exe)
+[Download the zip](https://github.com/ZainM24/SFML-Space-Invaders/archive/refs/heads/main.zip) and run "Alien Animation.exe" under [bin/release](https://github.com/ZainM24/SFML-Space-Invaders/blob/main/bin/Release/)
 
 ## Controls
 Left Arrow - Move Ship to the Left
